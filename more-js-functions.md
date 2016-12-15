@@ -1,0 +1,35 @@
+# More JS functions
+
+Complete the following exercises to improve your understanding of javascript functions!
+
+1. Write a JavaScript function reverse(num) that takes a number and returns the reversed version of it.
+Example x = 32243;
+Expected Output : 34223
+
+2. Write a JavaScript function isPalindrome(str) that checks whether a passed string is palindrome or not? It should return true if str is a palindrome, and false if otherwise.
+(A palindrome is word, phrase, or sequence that reads the same backward as forward, e.g., 'madam' or 'nurses run'.)
+
+3. Write a JavaScript function alphabeticalSort(str) that returns a string with letters sorted in alphabetical order.
+Example string : 'webmaster'
+Expected Output : 'abeemrstw'
+(Assume punctuation and numbers symbols are not included in the passed string.)
+
+4. Write a JavaScript function capitalizeSentence(str) that accepts a string as a parameter and converts the first letter of each word of the string in upper case.
+Example string : 'the quick brown fox'
+Expected Output : 'The Quick Brown Fox '
+
+5. Write a JavaScript function countVowels(str) that accepts a string as a parameter and counts the number of vowels within the string.
+Note : As the letter 'y' can be regarded as both a vowel and a consonant, we do not count 'y' as vowel here.
+Example string : 'The quick brown fox'
+Expected Output : 5
+
+6. Write a JavaScript function returnChange(amount, denominationArray) to convert an amount to coins.
+Sample function : returnChange(46, [25, 10, 5, 2, 1])
+Here 46 is the amount. and 25, 10, 5, 2, 1 are coins.
+Output : 25, 10, 10, 1.
+
+7. Write a JavaScript function letterCount(str) to get the number of occurrences of each letter in specified string. It should return an object with key value-pairs that denote the alphabets in the string (key) and the number of occurrences (value).
+
+8. Write a JavaScript function specificLetterCount(str, character) that accepts two arguments, a string and a letter and the function will return the number of occurrences of the specified letter within the string.
+Sample arguments : 'w3resource.com', 'o'
+Expected output : 2
