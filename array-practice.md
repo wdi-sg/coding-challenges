@@ -45,3 +45,8 @@ Complete the following exercises to improve your understanding of javascript fun
 
   * Sample input: arrayRange(-6, 5, 2)
   * Sample output: [-6, -4, -2, 0, 2]
+
+### Tests 
+
+Tests for questions 1-5 can be found in this [repo](https://github.com/davified/array-practice-1). 
+Tests for the remaining questions can be found in this [repo](https://github.com/davified/array-practice-2)
